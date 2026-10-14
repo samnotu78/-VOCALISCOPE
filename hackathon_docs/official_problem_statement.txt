@@ -1,0 +1,394 @@
+=== PAGE 1 ===
+Multimodal
+ 
+AI
+ 
+Hackathon
+ 
+2026
+ 
+-
+ 
+ 
+Problem
+ 
+Statements
+ 
+ 
+ 
+T r a c k
+ 
+A :
+ 
+C a r d i o v a s c u l a r
+ 
+R i s k
+ 
+V i s u a l i z a t i o n
+ 
+&
+ 
+P r e d i c t i o n
+ 
+C h a l l e n g e :
+ 
+B u i l d
+ 
+a n
+ 
+i n t e r a c t i v e
+ 
+3 D
+ 
+v i s u a l i z a t i o n
+ 
+s y s t e m
+ 
+t h a t
+ 
+p r e d i c t s
+ 
+c o r o n a r y
+ 
+a r t e r y
+ 
+d i s e a s e
+ 
+a n d
+ 
+o v e r a l l
+ 
+c a r d i a c
+ 
+r i s k
+ 
+f r o m
+ 
+p a t i e n t
+ 
+p h y s i o l o g i c a l
+ 
+a n d
+ 
+c l i n i c a l
+ 
+d a t a ,
+ 
+m a p p i n g
+ 
+p r e d i c t i o n s
+ 
+o n t o
+ 
+a n
+ 
+i n t e r a c t i v e
+ 
+3 D
+ 
+h u m a n
+ 
+a n a t o m i c a l
+ 
+m o d e l .
+ 
+T r a c k
+ 
+A
+ 
+P r o b l e m
+ 
+S t a t e m e n t
+ 
+ 
+ 
+ 
+ 
+T r a c k
+ 
+B :
+ 
+M a p p i n g
+ 
+F l o o d
+ 
+D a m a g e
+ 
+f r o m
+ 
+S p a c e
+ 
+C h a l l e n g e :
+ 
+W h e n
+ 
+r o a d s ,
+ 
+b r i d g e s
+ 
+a n d
+ 
+p h o n e
+ 
+l i n e s
+ 
+a r e
+ 
+g o n e ,
+ 
+r e s c u e r s
+ 
+s t i l l
+ 
+n e e d
+ 
+t o
+ 
+k n o w
+ 
+w h e r e
+ 
+t h e
+ 
+d a m a g e
+ 
+i s
+ 
+a n d
+ 
+w h o
+ 
+i s
+ 
+c u t
+ 
+o f f .
+ 
+B u i l d
+ 
+t h e
+ 
+s y s t e m
+ 
+t h a t
+ 
+t e l l s
+ 
+t h e m
+ 
+-
+ 
+f r o m
+ 
+s p a c e .
+ 
+T r a c k
+ 
+B
+ 
+P r o b l e m
+ 
+S t a t e m e n t
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+T r a c k
+ 
+C :
+ 
+C o n t r a s t i v e
+ 
+S p e e c h
+ 
+A n a l y t i c s
+ 
+&
+ 
+T e m p o r a l
+ 
+F l a w
+ 
+G r o u n d i n g
+ 
+ 
+C h a l l e n g e :
+ 
+D e v e l o p
+ 
+a
+ 
+s p e e c h
+ 
+e v a l u a t i o n
+ 
+s y s t e m
+ 
+b y
+ 
+c o n s t r u c t i n g
+ 
+a
+ 
+c u s t o m
+ 
+c o n t r a s t i v e
+ 
+d a t a s e t
+ 
+o f
+ 
+" i d e a l "
+ 
+v s .
+ 
+" f l a w e d "
+ 
+s p e e c h e s ,
+ 
+ 
+t o
+ 
+g e n e r a t e
+ 
+r e p r o d u c i b l e
+ 
+c u s t o m
+ 
+e v a l u a t i v e
+ 
+r u b r i c - b a s e d
+ 
+s c o r e s
+ 
+a n d
+ 
+a c t i o n a b l e
+ 
+d e l i v e r y
+ 
+f e e d b a c k
+ 
+v i a
+ 
+a n
+ 
+i n t e r a c t i v e
+ 
+d a s h b o a r d .
+ 
+ 
+ 
+T r a c k
+ 
+C
+ 
+P r o b l e m
+ 
+S t a t e m e n t
+ 
+ 
+ 
+ 
+ 
+T r a c k
+ 
+D :
+ 
+P e r s o n a l i z e d
+ 
+T u t o r i n g
+ 
+&
+ 
+A d a p t i v e
+ 
+L e a r n i n g
+ 
+C h a l l e n g e :
+ 
+B u i l d
+ 
+a n
+ 
+A I
+ 
+s t u d y
+ 
+c o m p a n i o n
+ 
+t h a t
+ 
+u n i f i e s
+ 
+l e c t u r e
+ 
+v i d e o s ,
+ 
+t e x t b o o k s ,
+ 
+a n d
+ 
+s l i d e s
+ 
+i n t o
+ 
+a
+ 
+s o u r c e - c i t e d
+ 
+k n o w l e d g e
+ 
+b a s e ,
+ 
+a n d
+ 
+u s e s
+ 
+i t
+ 
+t o
+ 
+r u n
+ 
+a d a p t i v e
+ 
+a s s e s s m e n t s
+ 
+a n d
+ 
+p e r s o n a l i z e d
+ 
+t u t o r i n g .
+ 
+T r a c k
+ 
+D
+ 
+P r o b l e m
+ 
+S t a t e m e n t
+ 
+ 
+ 
+ 
+S U B M I S S I O N
+ 
+G U I D E L I N E S
+ 
+ 
+P R I Z E
+ 
+P O O L
+ 
+D I S T R I B U T I O N
+ 
+ 
+ 
+ 

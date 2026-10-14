@@ -1,0 +1,54 @@
+# Vocaliscope Demonstration Dataset Transcripts
+Track C: Contrastive Speech Analytics & Temporal Flaw Grounding
+
+## Reference Target Script
+"Good communication is important for success. When we speak clearly, people understand our ideas. We should control our pace, pause at the right moment, and speak with confidence."
+
+---
+
+## Recording 1: clear.mp4
+- Speaker: Demonstration Male Speaker 1
+- Intended Delivery: Clear, deliberate, paced articulation with clause-boundary pauses.
+- Audio Track: AAC LC, 48,000 Hz stereo -> downmixed to 22,050 Hz mono PCM for analysis.
+- Total Duration: ~13.63 seconds
+- Active Speech Time: ~10.36 seconds (76.0% active ratio)
+
+Timestamped Transcription:
+00:00.00 - 00:00.34  [Initial room tone / pause]
+00:00.35 - 00:03.85  "Good communication is important for success."
+00:03.85 - 00:04.31  [Clause boundary pause: 0.46s]
+00:04.32 - 00:07.34  "When we speak clearly, people understand our ideas."
+00:07.33 - 00:07.65  [Sentence boundary pause: 0.32s]
+00:07.66 - 00:09.08  "We should control our pace,"
+00:09.07 - 00:09.79  [Clause boundary pause: 0.72s]
+00:09.80 - 00:10.54  "pause at the right moment,"
+00:10.53 - 00:10.72  [Micro-pause: 0.19s]
+00:10.73 - 00:11.35  [Vocal transition]
+00:11.34 - 00:11.90  [Pre-conclusion pause: 0.56s]
+00:11.91 - 00:13.12  "and speak with confidence."
+00:13.25 - 00:13.63  [Trailing silence / room tone]
+
+---
+
+## Recording 2: rushed.mp4
+- Speaker: Same Demonstration Speaker 1
+- Intended Delivery: Hurried tempo, mid-phrase hesitation, clipped pauses, uneven cadence.
+- Audio Track: AAC LC, 48,000 Hz stereo -> downmixed to 22,050 Hz mono PCM for analysis.
+- Total Duration: ~13.48 seconds
+- Active Speech Time: ~9.61 seconds (71.3% active ratio)
+
+Timestamped Transcription & Flaw Grounding:
+00:00.00 - 00:00.36  [Initial silence / room tone]
+00:00.37 - 00:02.79  "Good communication is..."
+00:02.78 - 00:03.05  [Mid-clause hesitation gap: 0.28s]
+00:03.07 - 00:04.13  "important for..."
+00:04.12 - 00:04.61  [Hesitation stumble before 'success': 0.49s]
+00:04.62 - 00:05.39  "...pause... success" [Disrupted articulation]
+00:05.38 - 00:05.84  [Hesitation pause: 0.46s]
+00:05.85 - 00:08.61  "When we speak clearly, people understand our ideas. We should control our pace,"
+                      [Pacing surge: compressed articulation burst of 16 words in 2.76s (~348 WPM)]
+00:08.60 - 00:08.81  [Abrupt micro-gap: 0.21s]
+00:08.82 - 00:10.12  "pause at the right moments..."
+00:10.11 - 00:10.83  [Mid-phrase hesitation gap: 0.72s]
+00:10.84 - 00:12.96  "...and speak with confidence." [Hurried ending]
+00:12.95 - 00:13.39  [Trailing room tone: 0.44s]

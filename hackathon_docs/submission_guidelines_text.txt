@@ -1,0 +1,338 @@
+=== PAGE 1 ===
+Multimodal
+ 
+AI
+ 
+Hackathon
+ 
+2026
+ 
+-
+ 
+Submission
+ 
+Guidelines
+ 
+ 
+Y o u r
+ 
+D e v p o s t
+ 
+s u b m i s s i o n
+ 
+m u s t
+ 
+i n c l u d e
+ 
+a l l
+ 
+f o u r
+ 
+c o m p o n e n t s
+ 
+b e f o r e
+ 
+t h e
+ 
+s u b m i s s i o n
+ 
+d e a d l i n e :
+ 
+1 .
+ 
+P r o j e c t
+ 
+d e s c r i p t i o n
+ 
+o n
+ 
+y o u r
+ 
+D e v p o s t
+ 
+p r o j e c t
+ 
+p a g e :
+ 
+D e s c r i b e
+ 
+w h a t
+ 
+y o u
+ 
+b u i l t ,
+ 
+t h e
+ 
+p r o b l e m
+ 
+i t
+ 
+s o l v e s ,
+ 
+a n d
+ 
+h o w
+ 
+y o u r
+ 
+s o l u t i o n
+ 
+w o r k s .
+ 
+2 .
+ 
+S o u r c e
+ 
+c o d e / d o c u m e n t a t i o n :
+ 
+a
+ 
+l i n k
+ 
+t o
+ 
+a
+ 
+p u b l i c
+ 
+G i t H u b
+ 
+r e p o s i t o r y
+ 
+c o n t a i n i n g
+ 
+y o u r
+ 
+s o u r c e
+ 
+c o d e
+ 
+a n d
+ 
+d o c u m e n t a t i o n .
+ 
+T h e
+ 
+r e p o s i t o r y
+ 
+m u s t
+ 
+i n c l u d e
+ 
+a
+ 
+R E A D M E
+ 
+w i t h
+ 
+s e t u p
+ 
+i n s t r u c t i o n s ,
+ 
+p r e r e q u i s i t e s / d e p e n d e n c i e s ,
+ 
+a n d
+ 
+i n s t r u c t i o n s
+ 
+f o r
+ 
+r u n n i n g
+ 
+t h e
+ 
+p r o j e c t .
+ 
+3 .
+ 
+D e m o
+ 
+v i d e o :
+ 
+3
+ 
+t o
+ 
+1 0
+ 
+m i n u t e s
+ 
+o n
+ 
+Y o u T u b e .
+ 
+U n l i s t e d
+ 
+i s
+ 
+f i n e .
+ 
+P r i v a t e
+ 
+i s
+ 
+n o t .
+ 
+T h e
+ 
+v i d e o
+ 
+m u s t
+ 
+s h o w
+ 
+t h e
+ 
+p r o j e c t
+ 
+r u n n i n g
+ 
+a n d
+ 
+e x p l a i n
+ 
+y o u r
+ 
+a p p r o a c h .
+ 
+E n g l i s h
+ 
+a u d i o
+ 
+o r
+ 
+E n g l i s h
+ 
+s u b t i t l e s
+ 
+r e q u i r e d .
+ 
+4 .
+ 
+T e a m
+ 
+i n f o r m a t i o n :
+ 
+a l l
+ 
+t e a m
+ 
+m e m b e r s
+ 
+u s i n g
+ 
+t h e i r
+ 
+r e a l
+ 
+f u l l
+ 
+n a m e s .
+ 
+E v e r y
+ 
+t e a m m a t e
+ 
+m u s t
+ 
+h a v e
+ 
+a
+ 
+D e v p o s t
+ 
+a c c o u n t
+ 
+a n d
+ 
+m u s t
+ 
+b e
+ 
+a d d e d
+ 
+t o
+ 
+t h e
+ 
+s u b m i s s i o n .
+ 
+M e m b e r s
+ 
+w h o
+ 
+a r e
+ 
+n o t
+ 
+a d d e d
+ 
+t o
+ 
+t h e
+ 
+D e v p o s t
+ 
+s u b m i s s i o n
+ 
+w i l l
+ 
+n o t
+ 
+a p p e a r
+ 
+o n
+ 
+t h e
+ 
+p r o j e c t
+ 
+p a g e
+ 
+a n d
+ 
+m a y
+ 
+n o t
+ 
+r e c e i v e
+ 
+a
+ 
+c e r t i f i c a t e .
+ 
+N O T E :
+ 
+T eams
+ 
+are
+ 
+1-4
+ 
+people.
+ 
+Going
+ 
+solo
+ 
+is
+ 
+completely
+ 
+fine,
+ 
+but
+ 
+most
+ 
+strong
+ 
+submissions
+ 
+come
+ 
+from
+ 
+teams.
+ 

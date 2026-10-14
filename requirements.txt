@@ -1,0 +1,9 @@
+# Vocaliscope Core Dependencies
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+librosa>=0.10.2
+imageio-ffmpeg>=0.5.1
+numpy>=1.26.0
+scipy>=1.13.0
+soundfile>=0.12.1
+python-multipart>=0.0.9

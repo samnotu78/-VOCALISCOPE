@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "dataset_name": "Vocaliscope Contrastive Demonstration Dataset",
+  "version": "1.0.0",
+  "track": "Track C: Contrastive Speech Analytics & Temporal Flaw Grounding",
+  "description": "Ground-truth temporal flaw annotations and acoustic metadata for pair-wise contrastive speech analysis.",
+  "target_script": "Good communication is important for success. When we speak clearly, people understand our ideas. We should control our pace, pause at the right moment, and speak with confidence.",
+  "word_count": 27,
+  "recordings": {
+    "clear": {
+      "filename": "clear.mp4",
+      "intended_condition": "calibrated_clear_delivery",
+      "duration_seconds": 13.63,
+      "estimated_active_seconds": 10.36,
+      "estimated_silence_seconds": 3.28,
+      "mean_rms_energy": 0.06421,
+      "estimated_pitch_median_hz": 169.4,
+      "pitch_p10_hz": 68.34,
+      "pitch_p90_hz": 250.28,
+      "sample_rate_hz": 22050,
+      "delivery_attributes": {
+        "cadence_stability": "high",
+        "pause_structure": "clause_aligned",
+        "pitch_expressiveness": "balanced",
+        "energy_projection": "consistent"
+      },
+      "clause_boundary_pauses": [
+        {"start_seconds": 3.84, "end_seconds": 4.31, "duration_seconds": 0.464, "boundary": "sentence_1_end"},
+        {"start_seconds": 7.33, "end_seconds": 7.65, "duration_seconds": 0.325, "boundary": "sentence_2_end"},
+        {"start_seconds": 9.07, "end_seconds": 9.79, "duration_seconds": 0.720, "boundary": "clause_1_end"},
+        {"start_seconds": 11.34, "end_seconds": 11.90, "duration_seconds": 0.557, "boundary": "clause_2_end"}
+      ],
+      "flaw_annotations": []
+    },
+    "rushed": {
+      "filename": "rushed.mp4",
+      "intended_condition": "hurried_erratic_delivery",
+      "duration_seconds": 13.48,
+      "estimated_active_seconds": 9.61,
+      "estimated_silence_seconds": 3.87,
+      "mean_rms_energy": 0.06529,
+      "estimated_pitch_median_hz": 166.03,
+      "pitch_p10_hz": 67.03,
+      "pitch_p90_hz": 220.75,
+      "sample_rate_hz": 22050,
+      "delivery_attributes": {
+        "cadence_stability": "irregular",
+        "pause_structure": "fragmented_with_hesitation",
+        "pitch_expressiveness": "compressed_bursts",
+        "energy_projection": "variable"
+      },
+      "flaw_annotations": [
+        {
+          "flaw_type": "mid_clause_hesitation",
+          "start_seconds": 2.78,
+          "end_seconds": 3.05,
+          "duration_seconds": 0.279,
+          "causal_explanation": "Speaker pauses mid-predicate ('Good communication is... [pause] important')."
+        },
+        {
+          "flaw_type": "hesitation_stumble",
+          "start_seconds": 4.12,
+          "end_seconds": 4.61,
+          "duration_seconds": 0.488,
+          "causal_explanation": "Disrupted articulation stumble before concluding the word 'success'."
+        },
+        {
+          "flaw_type": "pacing_surge",
+          "start_seconds": 5.85,
+          "end_seconds": 8.61,
+          "duration_seconds": 2.76,
+          "causal_explanation": "Rapid syllable cluster (16 words delivered at ~348 WPM with compressed clause pauses)."
+        },
+        {
+          "flaw_type": "hesitation_pause",
+          "start_seconds": 10.11,
+          "end_seconds": 10.83,
+          "duration_seconds": 0.720,
+          "causal_explanation": "Prolonged mid-phrase hesitation break (>700ms) interrupting the final clause transition."
+        }
+      ]
+    }
+  },
+  "provenance_and_limitations": {
+    "speaker_demographics": "Single adult male demonstration speaker recorded in a controlled interior acoustic environment.",
+    "capture_hardware": "Android smartphone built-in microphone (AAC stereo, 48 kHz).",
+    "intended_purpose": "Designed as a controlled reference pair demonstrating contrastive acoustic measurements and temporal flaw grounding.",
+    "limitations": [
+      "Small sample size (N=2 recordings, single speaker) does not constitute a generalized multi-speaker population dataset.",
+      "Acoustic features are physical signals (RMS energy, F0, MFCCs) and do not evaluate rhetorical skill, emotional truth, or linguistic semantics.",
+      "Ground truth flaw intervals are human-annotated reference boundaries for evaluation and sanity checking."
+    ]
+  }
+}

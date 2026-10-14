@@ -1,0 +1,1304 @@
+=== PAGE 1 ===
+Multimodal
+ 
+AI
+ 
+Hackathon
+ 
+2026
+ 
+ 
+T r a c k
+ 
+C :
+ 
+C o n t r a s t i v e
+ 
+S p e e c h
+ 
+A n a l y t i c s
+ 
+&
+ 
+T e m p o r a l
+ 
+F l a w
+ 
+G r o u n d i n g
+ 
+ 
+ 
+C h a l l e n g e :
+ 
+D e v e l o p
+ 
+a
+ 
+s p e e c h
+ 
+e v a l u a t i o n
+ 
+s y s t e m
+ 
+b y
+ 
+c o n s t r u c t i n g
+ 
+a
+ 
+c u s t o m
+ 
+c o n t r a s t i v e
+ 
+d a t a s e t
+ 
+o f
+ 
+" i d e a l "
+ 
+v s .
+ 
+" f l a w e d "
+ 
+s p e e c h e s ,
+ 
+ 
+t o
+ 
+g e n e r a t e
+ 
+r e p r o d u c i b l e
+ 
+c u s t o m
+ 
+e v a l u a t i v e
+ 
+r u b r i c - b a s e d
+ 
+s c o r e s
+ 
+a n d
+ 
+a c t i o n a b l e
+ 
+d e l i v e r y
+ 
+f e e d b a c k
+ 
+v i a
+ 
+a n
+ 
+i n t e r a c t i v e
+ 
+d a s h b o a r d .
+ 
+ 
+ 
+C o n t e x t :
+ 
+ 
+ 
+E v a l u a t i n g
+ 
+c o m p e t i t i v e
+ 
+s p o k e n
+ 
+p e r f o r m a n c e s ,
+ 
+s u c h
+ 
+a s
+ 
+I n t e r p r e t i v e
+ 
+R e a d i n g ,
+ 
+D e c l a m a t i o n ,
+ 
+E x t e m p o r a n e o u s ,
+ 
+a n d
+ 
+P e r s u a s i v e
+ 
+O r a t o r y
+ 
+i s
+ 
+i n h e r e n t l y
+ 
+s u b j e c t i v e .
+ 
+J u d g e s
+ 
+m u s t
+ 
+b a l a n c e
+ 
+v o c a l
+ 
+d e l i v e r y
+ 
+( t o n e ,
+ 
+c a d e n c e ,
+ 
+v o l u m e ,
+ 
+p a u s e s )
+ 
+w i t h
+ 
+t e x t u a l
+ 
+c o n t e n t
+ 
+q u a l i t y ,
+ 
+w h i c h
+ 
+p r o d u c e s
+ 
+i n c o n s i s t e n t
+ 
+s c o r i n g
+ 
+a c r o s s
+ 
+j u d g e s .
+ 
+T h e
+ 
+p a r t i c i p a n t s
+ 
+l o s e
+ 
+p o i n t s
+ 
+f o r
+ 
+d e l i v e r y
+ 
+f l a w s
+ 
+b u t
+ 
+r e c e i v e
+ 
+v a g u e ,
+ 
+s u b j e c t i v e
+ 
+f e e d b a c k .
+ 
+F u r t h e r m o r e ,
+ 
+w h i l e
+ 
+s t a n d a r d
+ 
+d a t a s e t s
+ 
+e x i s t
+ 
+f o r
+ 
+s p e e c h
+ 
+r e c o g n i t i o n ,
+ 
+t h e r e
+ 
+i s
+ 
+n o
+ 
+d e f i n i t i v e
+ 
+d a t a s e t
+ 
+m a p p i n g
+ 
+g o o d
+ 
+r h e t o r i c a l
+ 
+d e l i v e r y
+ 
+a g a i n s t
+ 
+a
+ 
+s p e c t r u m
+ 
+o f
+ 
+b a d
+ 
+d e l i v e r i e s
+ 
+o f
+ 
+t h e
+ 
+e x a c t
+ 
+s a m e
+ 
+t e x t .
+ 
+T o
+ 
+s o l v e
+ 
+t h i s ,
+ 
+y o u
+ 
+m u s t
+ 
+e n g i n e e r
+ 
+y o u r
+ 
+o w n
+ 
+c o n t r a s t i v e
+ 
+d a t a s e t ,
+ 
+s o u r c i n g
+ 
+p r o m i n e n t
+ 
+p u b l i c
+ 
+s p e e c h e s
+ 
+a n d
+ 
+m i r r o r i n g
+ 
+t h e m
+ 
+w i t h
+ 
+i n t e n t i o n a l l y
+ 
+f l a w e d
+ 
+r e c o r d i n g s
+ 
+r a n g i n g
+ 
+f r o m
+ 
+c o m p l e t e l y
+ 
+b o t c h e d
+ 
+t o
+ 
+" a l m o s t
+ 
+p e r f e c t " .
+ 
+B y
+ 
+t r e a t i n g
+ 
+s p e e c h
+ 
+a s
+ 
+a
+ 
+t i m e - s e r i e s
+ 
+s i g n a l
+ 
+a n d
+ 
+e x t r a c t i n g
+ 
+f e a t u r e s
+ 
+( l i k e
+ 
+F F T ,
+ 
+M F C C s
+ 
+e t c . ) ,
+ 
+t h e
+ 
+s y s t e m
+ 
+m u s t
+ 
+m a p
+ 
+a c o u s t i c
+ 
+s t r e s s
+ 
+p o i n t s ,
+ 
+t e m p o r a l l y
+ 
+g r o u n d
+ 
+t h e
+ 
+e x a c t
+ 
+r e g i o n
+ 
+o f
+ 
+f a i l u r e ,
+ 
+a n d
+ 
+e x p l a i n
+ 
+t h e
+ 
+m a t h e m a t i c a l
+ 
+r a t i o n a l e
+ 
+b e h i n d
+ 
+t h e
+ 
+f l a w .
+ 
+ 
+R e q u i r e m e n t s :
+ 
+1 .
+ 
+C u s t o m
+ 
+C o n t r a s t i v e
+ 
+D a t a s e t
+ 
+&
+ 
+S t r e s s
+ 
+T e s t i n g
+:
+ 
+a .
+ 
+T h e
+ 
+" G o o d "
+ 
+B a s e l i n e :
+ 
+S o u r c e
+ 
+a n d
+ 
+t r a n s c r i b e
+ 
+a u d i o
+ 
+r e c o r d i n g s
+ 
+o f
+ 
+h i g h l y
+ 
+e f f e c t i v e
+ 
+p u b l i c
+ 
+s p e a k e r s
+ 
+( e . g . ,
+ 
+p r o m i n e n t
+ 
+p o l i t i c i a n s ,
+ 
+c h a m p i o n
+ 
+d e b a t e r s ,
+ 
+T E D
+ 
+s p e a k e r s ) .
+ 
+b .
+ 
+T h e
+ 
+" B a d "
+ 
+S p e c t r u m :
+ 
+S y n t h e s i z e ,
+ 
+s e l f - r e c o r d ,
+ 
+o r
+ 
+m o d i f y
+ 
+a u d i o
+ 
+o f
+ 
+t h e
+ 
+e x a c t
+ 
+s a m e
+ 
+t r a n s c r i p t s
+ 
+w i t h
+ 
+i n t e n t i o n a l l y
+ 
+i n j e c t e d
+ 
+d e l i v e r y
+ 
+f l a w s .
+ 
+b u i l d i n g
+ 
+a
+ 
+g r a d i e n t
+ 
+f r o m
+ 
+e g r e g i o u s l y
+ 
+w r o n g
+ 
+p a c i n g / t o n e
+ 
+t o
+ 
+n e a r - p e r f e c t
+ 
+d e l i v e r y .
+ 
+c .
+ 
+L a b e l i n g :
+ 
+A c c u r a t e l y
+ 
+l a b e l
+ 
+a n d
+ 
+t e m p o r a l l y
+ 
+b o u n d
+ 
+p a i r e d
+ 
+g o o d / b a d
+ 
+r e c o r d i n g s
+ 
+f o r
+ 
+t r a i n i n g
+ 
+a n d
+ 
+t e s t i n g .
+ 
+ 
+
+=== PAGE 2 ===
+2 .
+ 
+A d v a n c e d
+ 
+F e a t u r e
+ 
+E x t r a c t i o n
+ 
+&
+ 
+F o r c e d
+ 
+A l i g n m e n t
+:
+ 
+a .
+ 
+P e r f o r m
+ 
+f o r c e d
+ 
+a l i g n m e n t
+ 
+t o
+ 
+m a p
+ 
+t h e
+ 
+t e x t
+ 
+t r a n s c r i p t
+ 
+p r e c i s e l y
+ 
+t o
+ 
+a u d i o
+ 
+t i m e s t a m p s .
+ 
+b .
+ 
+A p p l y
+ 
+f e a t u r e
+ 
+e x t r a c t i o n
+ 
+t e c h n i q u e s
+ 
+( f o r
+ 
+e x a m p l e ,
+ 
+F F T ,
+ 
+M F C C s ,
+ 
+p i t c h ,
+ 
+F 0
+ 
+c o n t o u r s ,
+ 
+s p e e c h
+ 
+r a t e ,
+ 
+p a u s e
+ 
+i n t e r v a l s ,
+ 
+v o c a l
+ 
+c l a r i t y )
+ 
+t o
+ 
+c a p t u r e
+ 
+t h e
+ 
+a c o u s t i c
+ 
+f o o t p r i n t
+ 
+3 .
+ 
+T e m p o r a l
+ 
+G r o u n d i n g
+ 
+&
+ 
+C a u s a l
+ 
+F l a w
+ 
+E x t r a c t i o n :
+ 
+a .
+ 
+T e m p o r a l
+ 
+G r o u n d i n g :
+ 
+I s o l a t e
+ 
+e x a c t
+ 
+s t a r t
+ 
+a n d
+ 
+e n d
+ 
+t i m e s t a m p s
+ 
+o f
+ 
+f l a w
+ 
+r e g i o n s
+ 
+w h e r e
+ 
+d e l i v e r y
+ 
+s i g n i f i c a n t l y
+ 
+d e v i a t e s
+ 
+f r o m
+ 
+b a s e l i n e
+ 
+a c o u s t i c
+ 
+e x p e c t a t i o n s .
+ 
+b .
+ 
+C a u s a l
+ 
+E x p l a i n a b i l i t y :
+ 
+T r a n s l a t e
+ 
+t h e
+ 
+r a w
+ 
+m a t h e m a t i c a l
+ 
+d e l t a
+ 
+i n t o
+ 
+a
+ 
+s t r u c t u r e d ,
+ 
+h u m a n - r e a d a b l e
+ 
+c a u s a l
+ 
+e x p l a n a t i o n
+ 
+f o r
+ 
+e a c h
+ 
+f l a w
+ 
+r e g i o n .
+ 
+4 .
+ 
+V i s u a l i z a t i o n
+ 
+&
+ 
+D a s h b o a r d i n g
+:
+ 
+a .
+ 
+B u i l d
+ 
+a n
+ 
+i n t e r a c t i v e
+ 
+f r o n t e n d
+ 
+i n t e r f a c e
+ 
+t h a t
+ 
+a c c e p t s
+ 
+a u d i o
+ 
+a n d
+ 
+t r a n s c r i p t
+ 
+u p l o a d s .
+ 
+b .
+ 
+R e n d e r
+ 
+a
+ 
+t i m e - s e r i e s
+ 
+o v e r l a y
+ 
+c o m p a r i n g
+ 
+b a s e l i n e
+ 
+a n d
+ 
+p a r t i c i p a n t
+ 
+f e a t u r e s ,
+ 
+h i g h l i g h t i n g
+ 
+f l a w
+ 
+r e g i o n s
+ 
+a l o n g s i d e
+ 
+t h e i r
+ 
+c a u s a l
+ 
+e x p l a n a t i o n s
+ 
+ 
+E x p e c t e d
+ 
+D e l i v e r a b l e s :
+ 
+●
+ 
+G i t h u b
+ 
+L i n k
+:
+ 
+C o n t a i n i n g
+ 
+a l l
+ 
+t h e
+ 
+c o d e b a s e
+ 
+a n d
+ 
+d o c u m e n t a t i o n .
+ 
+●
+ 
+T h e
+ 
+C u s t o m
+ 
+D a t a s e t
+:
+ 
+A
+ 
+w e l l - d o c u m e n t e d
+ 
+d a t a s e t
+ 
+c o n t a i n i n g
+ 
+t h e
+ 
+p a i r e d
+ 
+g o o d / b a d
+ 
+s p e c t r u m
+ 
+a u d i o
+ 
+f i l e s ,
+ 
+t h e i r
+ 
+t r a n s c r i p t s ,
+ 
+a n d
+ 
+a l i g n m e n t
+ 
+l a b e l s
+ 
+( m u s t
+ 
+b e
+ 
+i n
+ 
+g i t h u b ,
+ 
+o r
+ 
+a
+ 
+p u b l i c
+ 
+g o o g l e
+ 
+d r i v e
+ 
+l i n k
+ 
+a t t a c h e d
+ 
+i n
+ 
+R E A D M E ) .
+ 
+●
+ 
+I n t e r a c t i v e
+ 
+D a s h b o a r d
+:
+ 
+A
+ 
+f u n c t i o n a l
+ 
+w e b / a p p
+ 
+b a s e d
+ 
+p r o t o t y p e
+ 
+d e m o n s t r a t i n g
+ 
+t h e
+ 
+a u d i o
+ 
+u p l o a d ,
+ 
+f e a t u r e
+ 
+e x t r a c t i o n
+ 
+p r o c e s s i n g ,
+ 
+a n d
+ 
+v i s u a l / t e x t u a l
+ 
+d a t a
+ 
+r e p r e s e n t a t i o n .
+ 
+●
+ 
+T e c h n i c a l
+ 
+D o c u m e n t a t i o n
+:
+ 
+D o c u m e n t a t i o n
+ 
+o f
+ 
+d a t a s e t
+ 
+c o n s t r u c t i o n ,
+ 
+e v a l u a t i o n
+ 
+r u b r i c s ,
+ 
+m o d e l
+ 
+a r c h i t e c t u r e
+ 
+a n d
+ 
+s c o r i n g
+ 
+m e t h o d o l o g y
+ 
+( m a x .
+ 
+6
+ 
+p a g e ) .
+ 
+●
+ 
+3 - 1 0
+ 
+m i n u t e
+ 
+Y o u T u b e
+ 
+V i d e o
+:
+ 
+D e m o n s t r a t i n g
+ 
+t h e
+ 
+d a t a s e t
+ 
+c o l l e c t i o n
+ 
+p r o c e s s ,
+ 
+s t r e s s
+ 
+t e s t i n g
+ 
+a c r o s s
+ 
+d i f f e r e n t
+ 
+s p e e c h
+ 
+q u a l i t i e s ,
+ 
+a n d
+ 
+t h e
+ 
+d a s h b o a r d
+ 
+c a t c h i n g
+ 
+s p e c i f i c
+ 
+d e l i v e r y
+ 
+d e v i a t i o n s .
+ 
+T e c h n i c a l
+ 
+C o n s i d e r a t i o n s :
+ 
+●
+ 
+D a t a
+ 
+Q u a l i t y
+ 
+O v e r
+ 
+Q u a n t i t y
+:
+ 
+D a t a s e t
+ 
+q u a l i t y
+ 
+s h o u l d
+ 
+t a k e
+ 
+p r i o r i t y
+ 
+o v e r
+ 
+q u a n t i t y ,
+ 
+f a v o r i n g
+ 
+a
+ 
+c l e a n l y
+ 
+a l i g n e d
+ 
+c o n t r a s t i v e
+ 
+s p e c t r u m
+ 
+o v e r
+ 
+a
+ 
+l a r g e
+ 
+n o i s y
+ 
+c o r p u s .
+ 
+●
+ 
+S p e a k e r
+ 
+A g n o s t i c
+:
+ 
+C o m p a r i s o n
+ 
+l o g i c
+ 
+s h o u l d
+ 
+r e m a i n
+ 
+s p e a k e r - a g n o s t i c ,
+ 
+n o r m a l i z i n g
+ 
+p i t c h
+ 
+a n d
+ 
+e n e r g y
+ 
+t o
+ 
+a c c o u n t
+ 
+f o r
+ 
+n a t u r a l
+ 
+b i o l o g i c a l
+ 
+d i f f e r e n c e s
+ 
+b e t w e e n
+ 
+s p e a k e r s .
+ 
+●
+ 
+T h e
+ 
+s y s t e m
+ 
+s h o u l d
+ 
+i d e n t i f y
+ 
+f l a w
+ 
+r e g i o n s
+ 
+w i t h
+ 
+s u f f i c i e n t
+ 
+t e m p o r a l
+ 
+p r e c i s i o n
+ 
+t o
+ 
+s u p p o r t
+ 
+c a u s a l
+ 
+e x p l a n a t i o n .
+ 
+●
+ 
+S o l u t i o n
+ 
+s h o u l d
+ 
+r e m a i n
+ 
+r e p r o d u c i b l e
+ 
+a c r o s s
+ 
+r e p e a t e d
+ 
+r u n s
+ 
+a n d
+ 
+d e p l o y m e n t
+ 
+e n v i r o n m e n t s .
+ 
+
+=== PAGE 3 ===
+E v a l u a t i o n
+ 
+C r i t e r i a :
+ 
+●
+ 
+C a u s a l
+ 
+E x p l a i n a b i l i t y
+ 
+&
+ 
+T e m p o r a l
+ 
+G r o u n d i n g
+ 
+( 2 5 % ) :
+ 
+a c c u r a c y
+ 
+o f
+ 
+f l a w - r e g i o n
+ 
+t i m e s t a m p s ,
+ 
+c l a r i t y
+ 
+o f
+ 
+m a t h e m a t i c a l
+ 
+r a t i o n a l e
+ 
+l i n k i n g
+ 
+a c o u s t i c
+ 
+d e v i a t i o n
+ 
+t o
+ 
+c o n t e x t .
+ 
+●
+ 
+D a t a
+ 
+E n g i n e e r i n g
+ 
+&
+ 
+S t r e s s
+ 
+T e s t i n g
+ 
+( 3 0 % ) :
+ 
+c l e v e r n e s s
+ 
+o f
+ 
+b a s e l i n e
+ 
+s o u r c i n g ,
+ 
+c l e a n l i n e s s
+ 
+o f
+ 
+t e m p o r a l
+ 
+l a b e l i n g ,
+ 
+r o b u s t n e s s
+ 
+o f
+ 
+t h e
+ 
+b a d - m i r r o r
+ 
+g r a d i e n t .
+ 
+●
+ 
+F e a t u r e
+ 
+E x t r a c t i o n
+ 
+( 2 0 % ) :
+ 
+m a t h e m a t i c a l
+ 
+r i g o r
+ 
+o f
+ 
+a c o u s t i c
+ 
+p r o c e s s i n g ,
+ 
+a c c u r a c y
+ 
+o f
+ 
+s t r e s s - p o i n t
+ 
+a n d
+ 
+e n e r g y - c o n t o u r
+ 
+i d e n t i f i c a t i o n .
+ 
+●
+ 
+V i s u a l i z a t i o n
+ 
+&
+ 
+D a s h b o a r d
+ 
+( 1 5 % ) :
+ 
+f r o n t e n d
+ 
+e x e c u t i o n ,
+ 
+u s a b i l i t y ,
+ 
+c l a r i t y
+ 
+o f
+ 
+t i m e - s e r i e s
+ 
+a n d
+ 
+c a u s a l - r a t i o n a l e
+ 
+c o m m u n i c a t i o n .
+ 
+●
+ 
+R e p r o d u c i b i l i t y
+ 
+&
+ 
+C o d e
+ 
+Q u a l i t y
+ 
+( 1 0 % ) :
+ 
+c l e a n l i n e s s
+ 
+o f
+ 
+e x e c u t i o n ,
+ 
+c l a r i t y
+ 
+o f
+ 
+d e p l o y m e n t
+ 
+i n s t r u c t i o n s ,
+ 
+c o d e
+ 
+a r c h i t e c t u r e .
+ 
+ 
+ 
+ 
+ 
